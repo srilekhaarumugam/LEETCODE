@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
