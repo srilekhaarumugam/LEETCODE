@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 ## Math
@@ -66,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [1512-number-of-good-pairs](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
