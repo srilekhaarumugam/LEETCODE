@@ -23,10 +23,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 ## Math
