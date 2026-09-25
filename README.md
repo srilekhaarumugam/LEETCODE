@@ -12,10 +12,12 @@
 | [1480-running-sum-of-1d-array](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2574-left-and-right-sum-differences](https://github.com/srilekhaarumugam/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/srilekhaarumugam/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
