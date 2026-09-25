@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0200-number-of-islands) |
 | [0643-maximum-average-subarray-i](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/srilekhaarumugam/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srilekhaarumugam/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
